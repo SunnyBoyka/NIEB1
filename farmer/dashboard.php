@@ -233,7 +233,7 @@ if (!isset($_SESSION["Farmer"])) {
 
 
           <form id="form" name="form" method="POST" action="farmerdelete.php" class="text-center" enctype="multipart/form-data">
-            <h4 class="h4 text-center mb-4">Schemes Notifications For You</h4>
+            <h4 class="h4 text-center mb-4">Schemes Notifications For You I edited it</h4>
             <div class="table-responsive">
               <table class="table table-striped table-hover table-bordered shadow-sm align-middle">
                 <thead class=" bg-gradient text-white" style="background: #FF970A;">
